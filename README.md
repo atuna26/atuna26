@@ -1,7 +1,7 @@
 # 💫About Me :
 👋 Welcome my profile. 
 ✍🏻 I'm currently working on my skills.
-💻 I'm currently learning more about Javascript and React.js.
+💻 I'm currently learning more about Javascript and React.js.<br>
 📚 I'm currently developing a website whose URL is suggestbook.net.
 📨 If you want to reach me use mail ---> alperentuna26@gmail.com
 🛎 Fact: You read three times "currently".
