@@ -1,11 +1,11 @@
 # 💫About Me :
-👋 Welcome my profile. 
-✍🏻 I'm currently working on my skills.
+👋 Welcome my profile.<br>
+✍🏻 I'm currently working on my skills.<br>
 💻 I'm currently learning more about Javascript and React.js.<br>
-📚 I'm currently developing a website whose URL is suggestbook.net.
-📨 If you want to reach me use mail ---> alperentuna26@gmail.com
-🛎 Fact: You read three times "currently".
-🤖 Yes, I know, my github profile is so empty.
+📚 I'm currently developing a website whose URL is suggestbook.net.<br>
+📨 If you want to reach me use mail ---> alperentuna26@gmail.com<br>
+🛎 Fact: You read three times "currently".<br>
+🤖 Yes, I know, my github profile is so empty.<br>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alperenntuna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alperentuna) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alperentuna26) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aynayabaktim) 
